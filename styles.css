@@ -1,82 +1,82 @@
 *{
-    box-sizing: border-box;
-  }
-  
-  html{
-    font-family: Poppins, sans-serif;
-  }
-  
-  #title{
-    margin-top: 30px;
-    padding-bottom:0;
-    margin-bottom:0;
-    text-align: center;
-  }
-  
-  #description{
-    margin-top:-10px;
-    margin-bottom: 30px;
-    text-align: center;
-  }
-  
-  body{
-    color: #dddddd;
-    background: #1b1b23
-  }
-  
-  #img-div{
-    background-color: #334739;
-    margin: 10px;
-    border-radius: 5px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-  }
-  
-  ul{
-    margin: 20px auto;
-    max-width: 500px;
-  }
-  
-  #image{
-   max-width: 100%;
-    display: block;
-    height: auto;
-    margin: 0 auto;
-  }
-  
-  h2{
-    text-align: center;
-  }
-  
-  li{
-    text-align: left;
-    font-size: 16px;
-    margin-bottom: 1.1rem;
-  }
-  
-  #img-caption{  
-    text-align: center;
-    margin-top:10px;
-  }
-  
-  #date{
-    color: #658a71;
-  }
-  
-  #main{
-    margin: auto;
-    border-radius: 5px;
-    padding: 10px 0;
-    background-color:#262e28;
-  }
-  
-  p{
-    margin: auto;
-    max-width: 900px;
-    font-size: 1.2rem;
-    text-align: center;
-  }
-  
-  a{
-    color: #5a909c;
-  }
+  box-sizing: border-box;
+}
+
+html{
+  font-family: Poppins, sans-serif;
+}
+
+#title{
+  margin-top: 30px;
+  padding-bottom:0;
+  margin-bottom:0;
+  text-align: center;
+}
+
+#description{
+  margin-top:-10px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+body{
+  color: #dddddd;
+  background: #1b1b23
+}
+
+#img-div{
+  background-color: #334739;
+  margin: 10px;
+  border-radius: 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+ul{
+  margin: 20px auto;
+  max-width: 500px;
+}
+
+#image{
+ max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
+
+h2{
+  text-align: center;
+}
+
+li{
+  text-align: left;
+  font-size: 16px;
+  margin-bottom: 1.1rem;
+}
+
+#img-caption{  
+  text-align: center;
+  margin-top:10px;
+}
+
+#date{
+  color: #658a71;
+}
+
+#main{
+  margin: auto;
+  border-radius: 5px;
+  padding: 10px 0;
+  background-color:#262e28;
+}
+
+p{
+  margin: auto;
+  max-width: 900px;
+  font-size: 1.2rem;
+  text-align: center;
+}
+
+a{
+  color: #5a909c;
+}
